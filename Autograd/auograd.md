@@ -1,0 +1,1 @@
+1. Autograd is a core component of Pytorch that provides automatic differentation for tensor operations. It enable gradient computation which is required for training machine learning models using optimization algorithms like gradient descent.
